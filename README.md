@@ -26,5 +26,4 @@ mynet：                     该文件夹中存放的是训练时存放的数据
 
 
 项目GitHub链接：https://github.com/JYongSmile/swallowsoundml.git
-项目百度网盘链接：https://pan.baidu.com/s/1ht81qJE 密码：0q2b
 如果有什么疑问或者运行程序出现什么问题可以微信联系，欢迎交流沟通，共同进步！	邮箱：s.barry1994@foxmail.com  CSDN博客：http://blog.csdn.net/barry_j
