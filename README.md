@@ -1,6 +1,7 @@
 # paper-2018-HAASD
 HAASD: A dataset of Household Appliances Abnormal Sound Detection - paper replication data
 
+https://dl.acm.org/citation.cfm?id=3297186
 
 This project uses deep learning to detect the abnormal sound of home appliances such as washing machines, so as to realize the automatic classification of faulty home appliances and normal home appliances. The project contents are as follows:
 
